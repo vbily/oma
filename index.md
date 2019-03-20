@@ -1,4 +1,36 @@
-## Welcome to GitHub Pages
+## Ship Power Plants
+
+<nav id="navbar" class="collapse navbar-collapse">
+    <ul class="nav navbar-nav">
+        {% assign links = site.data.navigation %}
+        {% for link in links %}
+            {% assign class = nil %}
+            {% if page.url contains link.url %}
+                {% assign class = 'active' %}
+            {% endif %}
+            {% if link.sublinks %}
+                <li class="dropdown {{ class }}">
+                    <a href="{{ site.baseurl }}{{ link.url }}" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{ link.title }} <span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        {% for sublink in link.sublinks %}
+                            {% if sublink.title == 'separator' %}
+                                <li role="separator" class="divider"></li>
+                            {% else %}
+                                <li>
+                                    <a href="{{ site.baseurl }}{{ sublink.url }}">{{ sublink.title }}</a>
+                                </li>
+                            {% endif %}
+                        {% endfor %}
+                    </ul>
+                </li>
+            {% else %}
+             <li class="{{ class }}">
+                    <a href="{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a>
+                </li>
+            {% endif %}
+        {% endfor %}
+    </ul>
+</nav>
 
 You can use the [editor on GitHub](https://github.com/vbily/oma/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 

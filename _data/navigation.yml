@@ -1,0 +1,38 @@
+- title: News
+  url: /news.html
+- title: About the journal
+  url: /about.html
+  sublinks:
+    - title: Main information
+      url: /main_info.html
+    - title: Journal Headlines
+      url: /journal_headlines.html
+    - title: Publishing ethics
+      url: /publishing_ethics.html
+    - title: Open access
+      url: /open_access.html
+- title: For authors
+  url: /authors.html
+  sublinks:
+    - title: Article submission guidelines
+      url: /article_submission_guidelines.html
+    - title: Example of the paper appearance
+      url: /example_paper_appearance.html
+    - title: License agreement
+      url: /license_agreement.html
+    - title: Peer review
+      url: /peer_review.html
+    - title: Editing
+      url: /editing.html  
+    - title: Conditions of publication
+      url: /conditions_of_publication.html  
+    - title: Helpful info
+      url: /helpful_info.html  
+    - title: Submit article
+      url: /submit_article.html   
+- title: Editorial Board
+  url: /editorial_board.html
+- title: Archive
+  url: /archive.html
+- title: Contact
+  url: /contact.html
