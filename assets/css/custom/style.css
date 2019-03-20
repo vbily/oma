@@ -44,3 +44,6 @@ body {
     top: 11px;
     left: -6px;
 }
+span.caret{
+    display:none;
+}
