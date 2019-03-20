@@ -2,3 +2,7 @@ theme: jekyll-theme-slate
 github:
   is_project_page: false
 title: Ship Power Plants
+navbar: true
+exclude: docs/, lib/, scripts/
+sass:
+  sass_dir: assets/css
