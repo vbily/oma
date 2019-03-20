@@ -1,6 +1,6 @@
-theme: jekyll-theme-slate
 github:
   is_project_page: false
+theme: jekyll-theme-slate
 title: Ship Power Plants
 navbar: false
 exclude: docs/, lib/, scripts/
