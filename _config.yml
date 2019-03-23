@@ -3,6 +3,6 @@ github:
 theme: jekyll-theme-slate
 title: Ship Power Plants
 navbar: false
-exclude: docs/, lib/, scripts/
+exclude: lib/, scripts/
 sass:
   sass_dir: assets/css
