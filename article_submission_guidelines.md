@@ -22,14 +22,14 @@
 
 **B. Requirements to registration of article**
 
-1. UDC, title, abstract, keywords in Russian and Ukrainian languages:
-  - UDC (Universal Decimal Classification)
+1. **UDC, title, abstract, keywords in Russian and Ukrainian languages:**
+  - [UDC (Universal Decimal Classification)](http://www.udcsummary.info/php/index.php)
   - Title of the article (no more than 10 words, it does not contain abbreviations, strictly correspond to the content of article)
   - Initials and names of authors separated by commas (First Name Last Name, First Name Last Name…)
   - Abstract (not less than 35 words, no more than 50 words, it does not contain abbreviations, strictly correspond to the context of article)
   - Keywords (no more than 10 words, no abbreviations, strictly correspond to the context of the article, words use in the nominative case, separated by commas)
 
-2. Structure of article:
+2. **Structure of article:**
   - Introduction
   - Formulation of the problem and literature review
   - The purpose and objectives of research
@@ -40,7 +40,7 @@
   - Literature
   - Abstract and keywords in English
 
-3. Information about the authors in Russian, Ukrainian and English languages:
+3. **Information about the authors in Russian, Ukrainian and English languages:**
   - First and last name (full)
   - Position, rank
   - Place of work and address
@@ -49,7 +49,7 @@
   - The H-index (if available)
   - Number ORCID
 
-4. Other requirements:
+4. **Other requirements:**
   - The dimension of physical quantities specify in SI units.
   - The list of references provide in order of citation, in accordance with DSTU GOST 7.1:2006.. In this list it is preferable to specify articles in scientific journals, theses or conference proceedings, collections of research works, certificates of authorship, patents, dissertations, and other sources, but not older than 5 years, at least five ones.
   - Figures/tables cite in the text, without wrapping, after their first mention in the text. Reference to a figure or table in the text has the appearance of Fig. 1, Tab. 1. Titles of tables and captions of figures present in the text also. All figures have JPG format. The table has not empty cells.
@@ -61,4 +61,4 @@ Look an [example](docs/example.pdf).
 
 Postal address for sending a paper journal (for authors who does not live in Odessa, Ukraine)
 
-Mandatory condition:: the recipient address must meet the requirements 6.2 of the [License agreement](docs/Litsenzionny_dogovor.doc)
+**Mandatory condition:** the recipient address must meet the requirements 6.2 of the [License agreement](docs/Litsenzionny_dogovor.doc)
