@@ -9,10 +9,10 @@ Our journal publisher and editorial board in full seriousness relate to the supe
 
 <summary>
 
-### Ethical obligations of editorial board
+Ethical obligations of editorial board
 
 </summary>
-<br>
+
 1. Editor-in-Chief of the journal "Ship power plants" responsible for decision which of the articles submitted to the journal should be published. This cannot be the authoritarian decision and should be based on the provisions of the law prohibiting copyright infringement and the use of plagiarism. Chief editor (or on his behalf – the members of the editorial board) may consult with other members of the editorial board, experts, reviewers, competent authorities for final decision.
 
 2. During the review process the chief editor and editorial board members ensure that all the material submitted to journal remains confidential, without the right to disclosure any information about a submitted manuscript except the authors, reviewers, editorial advisers.
