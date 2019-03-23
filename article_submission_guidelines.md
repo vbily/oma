@@ -61,4 +61,4 @@ Look an example.
 
 Postal address for sending a paper journal (for authors who does not live in Odessa, Ukraine)
 
-Mandatory condition:: the recipient address must meet the requirements 6.2 of the License agreement))
+Mandatory condition:: the recipient address must meet the requirements 6.2 of the [License agreement](docs/Litsenzionny_dogovor.doc)
