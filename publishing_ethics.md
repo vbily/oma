@@ -9,7 +9,7 @@ Our journal publisher and editorial board in full seriousness relate to the supe
 
 <summary>
 
-### **Ethical obligations of editorial board**
+### Ethical obligations of editorial board
 
 </summary>
 <br>
