@@ -30,43 +30,26 @@
   - Keywords (no more than 10 words, no abbreviations, strictly correspond to the context of the article, words use in the nominative case, separated by commas)
 
 2. Structure of article:
-
   - Introduction
-
   - Formulation of the problem and literature review
-
   - The purpose and objectives of research
-
   - The main part
-
   - Approbation of research results
-
   - Discussion of the results
-
   - Conclusions
-
   - Literature
-
   - Abstract and keywords in English
 
 3. Information about the authors in Russian, Ukrainian and English languages:
-
   - First and last name (full)
-
   - Position, rank
-
   - Place of work and address
-
   - Contact information (phone and e-mail)
-
   - Information about the availability of printed works in national and international databases (approximate)
-
   - The H-index (if available)
-
   - Number ORCID
 
 4. Other requirements:
-
   - The dimension of physical quantities specify in SI units.
   - The list of references provide in order of citation, in accordance with DSTU GOST 7.1:2006.. In this list it is preferable to specify articles in scientific journals, theses or conference proceedings, collections of research works, certificates of authorship, patents, dissertations, and other sources, but not older than 5 years, at least five ones.
   - Figures/tables cite in the text, without wrapping, after their first mention in the text. Reference to a figure or table in the text has the appearance of Fig. 1, Tab. 1. Titles of tables and captions of figures present in the text also. All figures have JPG format. The table has not empty cells.
