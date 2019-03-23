@@ -57,7 +57,7 @@
   - The articles must overpass a referee process. If necessary, the article is returned to authors for revision. Date of receipt will be deemed the date of receipt of the revised. Materials with a negative review is not printed.
   - The editorial board reserves the right to abridge and edit the articles without the consent of the authors.
 
-Look an example.
+Look an [example](docs/example.pdf).
 
 Postal address for sending a paper journal (for authors who does not live in Odessa, Ukraine)
 
