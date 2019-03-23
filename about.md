@@ -1,6 +1,6 @@
 
 
-# About the journal «Ship power plants»
+## About the journal «Ship power plants»
 Scientific and technical collection «Ship power plants» issued on the basis of the National University «Odessa Maritime Academy» since 1998 and addressed to the problems of ship's energetics, designing, modernization and ship power plants operation, increase of effectiveness methods and utilising reliability of ships facilities.
 
 The journal is the leading periodical in indicated fields of science in Ukraine. It publishes the results of research applicants degrees doctor of science and PhD, marine engineers and researchers.  
