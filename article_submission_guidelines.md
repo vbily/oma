@@ -1,3 +1,9 @@
+---
+title: Article submission guidelines
+lang: en
+ref: article_submission_guidelines
+---
+
 ## Article submission guidelines
 
 **А. Requirements for formatting text**

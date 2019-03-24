@@ -1,3 +1,9 @@
+---
+title: Journal headlines
+lang: en
+ref: journal_headlines
+---
+
 ## Journal headlines
  - Automation of ship power plants and ship information management systems
 

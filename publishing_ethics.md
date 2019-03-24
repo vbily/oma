@@ -1,3 +1,9 @@
+---
+title: Publishing Ethics
+lang: en
+ref: publishing_Ethics
+---
+
 ## Publishing Ethics
 Ethics and malpractice prevention in our journal publications meets the principles of Publishing Ethics Resource Kit (PERK), the recommendations of Elsevier, practices Committee on Publication Ethics (COPE) for editors of journals and ethics publications of the Academy Publisher.  
 

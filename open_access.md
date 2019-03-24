@@ -1,3 +1,9 @@
+---
+title: Open access
+lang: en
+ref: open_access
+---
+
 ## Open access
 Our edition open access policy is [based on the Budapest Initiative "Open Access" (BOAI)](http://www.budapestopenaccessinitiative.org/) theses.
 
