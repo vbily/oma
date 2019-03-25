@@ -10,7 +10,7 @@ ref: submit_article
 
 2. Send by e-mail [seu.odessa@gmail.com](mailto:seu.odessa@gmail.com)
   - signed a license agreement ([example](docs/Litsenzionny_dogovor_SEU.doc));
-  - for not citizens of Ukraine authors, requires a license agreement, shown in the form below. Signature of author (authors) must be stamped by author’s institution personnel Department or Department’s stamp. The sample is attached ([download sample](docs/Litsenzionny_dogovor_SEU_ru.doc);
+  - for not citizens of Ukraine authors, requires a license agreement, shown in the form below. Signature of author (authors) must be stamped by author’s institution personnel Department or Department’s stamp. The sample is attached ([download sample](docs/Litsenzionny_dogovor_SEU_ru.doc));
   - document about the annotation translation into English. The editorial board can provide this service;
   - address for sending print copies of the journal (should match the address specified in the license agreement);
   - the directions that matches the theme of your article (selected from the journal directions);
