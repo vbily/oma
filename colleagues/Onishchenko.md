@@ -1,4 +1,6 @@
 ## Onishchenko Oleg А.
+
+![](colleagues/photos/Onishchenko.jpg)
 __National University “Odessa Maritime Academy” (Odessa, Ukraine)__
 
 __Department of Fleet Technical Operation__

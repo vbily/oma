@@ -9,7 +9,7 @@ ref: editorial_board
 [Onishchenko Oleg А.](colleagues/onishchenko.html) - Doctor of Science (the highest research degree), Professor
 National University “Odessa Maritime Academy” (Odessa, Ukraine)
 
-Editorial Board
+**Editorial Board**
 
 Berestovoy Anatoly M. - Head of the department of maritime transport, Doctor of Science (D.Sc.), Professor, Academician of International Personnel Academy
 Azov Maritime Institute of the National University
