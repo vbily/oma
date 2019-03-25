@@ -1,3 +1,9 @@
+---
+title: Onishchenko Oleg А.
+lang: en
+ref: Onishchenko
+---
+
 ## Onishchenko Oleg А.
 
 ![Onishchenko](photos/Onishchenko.jpg)
@@ -37,18 +43,18 @@ Doctor of Science (the highest research degree), Professor
 
 9. [Onishchenko O.A. Energy hazard upgrading for the valve-inductive electric drives [Text] / Onishchenko O.A., Karpovich O.Y. // Vestnik NTU "KPI". Problems of automated electric motor drive. Theory and practice. – 2005.- № 45. – P. 400 – 404](http://scholar.google.com.ua/citations?view_op=view_citation&hl=ru&user=loy-x2UAAAAJ&citation_for_view=loy-x2UAAAAJ:mB3voiENLucC)
 
-10. Onishchenko O.A. Magnetization curves performance during modeling a microprocessor with the valve-inductivemotor drive [Text] / Onishchenko O.A. // Visnyk of Kherson National Technical University.- 2006.- № 2.- P. 25
+10. [Onishchenko O.A. Magnetization curves performance during modeling a microprocessor with the valve-inductivemotor drive [Text] / Onishchenko O.A. // Visnyk of Kherson National Technical University.- 2006.- № 2.- P. 25](http://scholar.google.com.ua/scholar?hl=ru&as_sdt=0,5&cluster=15614962119884114581)
 
-11. Onishchenko O.A. System temperature condensation of the refrigeration unit electric drive [Text] / Onishchenko O.A. // Electromashunobuduvannya ta electroobladnannya– 2006. - №66. – P. 190-192
+11. [Onishchenko O.A. System temperature condensation of the refrigeration unit electric drive [Text] / Onishchenko O.A. // Electromashunobuduvannya ta electroobladnannya– 2006. - №66. – P. 190-192](http://storage.library.opu.ua/online/periodic/ee_66/3-34.pdf)
 
-12. Onishchenko O.A. Mathematical model creation of the compressor single-phase induction motor [Text] / Onishchenko O.A., Bucaros A.Y., Doroholsky M.L.// Refrigeration technics and technology. - Proceedings of IV–th workshop "Information systems and technologies". Appendix to the journal – 2006. – P. 116-124
+12. [Onishchenko O.A. Mathematical model creation of the compressor single-phase induction motor [Text] / Onishchenko O.A., Bucaros A.Y., Doroholsky M.L.// Refrigeration technics and technology. - Proceedings of IV–th workshop "Information systems and technologies". Appendix to the journal – 2006. – P. 116-124](http://scholar.google.com.ua/citations?view_op=view_citation&hl=ru&user=loy-x2UAAAAJ&citation_for_view=loy-x2UAAAAJ:L8Ckcad2t8MC)
 
-13. Onishchenko O.A. Assessment energy cost for household refrigerating device of generation a cold [Text] / Onishchenko O.A. // Scientific Journal "Transactions of Kremenchuk Mykhailo Ostrohradskyi National University" – 2007. – № 3 (44) – P. 106-110
+13. [Onishchenko O.A. Assessment energy cost for household refrigerating device of generation a cold [Text] / Onishchenko O.A. // Scientific Journal "Transactions of Kremenchuk Mykhailo Ostrohradskyi National University" – 2007. – № 3 (44) – P. 106-110](http://www.kdu.edu.ua/statti/2007-3%2844%29/106.pdf)
 
-14. Onishchenko O.A. Algorithm of simulation of valve-inductive microcompressors electric drive [Text] / Onishchenko O.A., Karpovich O.Y. // Eastern-European Journal of Eenterprise Technologies - . – 2011. - № 8 (51) / V. 3. – P. 19 -23
+14. [Onishchenko O.A. Algorithm of simulation of valve-inductive microcompressors electric drive [Text] / Onishchenko O.A., Karpovich O.Y. // Eastern-European Journal of Eenterprise Technologies - . – 2011. - № 8 (51) / V. 3. – P. 19 -23](http://cyberleninka.ru/article/n/algoritm-modelirovaniya-ventilno-induktornyh-elektroprivodov-mikrokompressorov)
 
-15. Onishchenko O.A. Two channel control system of small refrigeration units [Text] / Onishchenko O.A. // Electrotechnic and computer systems. - 2012. - № 5. – P. 37-42
+15. [Onishchenko O.A. Two channel control system of small refrigeration units [Text] / Onishchenko O.A. // Electrotechnic and computer systems. - 2012. - № 5. – P. 37-42](http://scholar.google.com.ua/citations?view_op=view_citation&hl=ru&user=loy-x2UAAAAJ&citation_for_view=loy-x2UAAAAJ:r0BpntZqJG4C)
 
-16. Onishchenko O.A. Housing refrigeration unit capacity assessment as an energy facility [Text] / Onishchenko O.A. // Vestnik NTU "KPI". Series: New solutions in modern technologies.- 2012. -№ 17. – P. 27 - 35
+16. [Onishchenko O.A. Housing refrigeration unit capacity assessment as an energy facility [Text] / Onishchenko O.A. // Vestnik NTU "KPI". Series: New solutions in modern technologies.- 2012. -№ 17. – P. 27 - 35](http://scholar.google.com.ua/citations?view_op=view_citation&hl=ru&user=loy-x2UAAAAJ&cstart=20&pagesize=80&citation_for_view=loy-x2UAAAAJ:hMod-77fHWUC)
 
-17. Onishchenko O.A. Simulation of the resistance moment of single-piston compressor of ship refrigeration unit [Text] / Onishchenko O.A., Bucaros A.Y., Bucaros V.M. // Technology audit and production reserves .- 2015. - № 4/1 (24) – P. 46 - 51
+17. [Onishchenko O.A. Simulation of the resistance moment of single-piston compressor of ship refrigeration unit [Text] / Onishchenko O.A., Bucaros A.Y., Bucaros V.M. // Technology audit and production reserves .- 2015. - № 4/1 (24) – P. 46 - 51](http://scholar.google.com.ua/citations?view_op=view_citation&hl=ru&user=loy-x2UAAAAJ&citation_for_view=loy-x2UAAAAJ:pyW8ca7W8N0C)
