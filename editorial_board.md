@@ -14,7 +14,7 @@ National University “Odessa Maritime Academy” (Odessa, Ukraine)
 Berestovoy Anatoly M. - Head of the department of maritime transport, Doctor of Science (D.Sc.), Professor, Academician of International Personnel Academy
 Azov Maritime Institute of the National University
 
-Golikov Vladimir A. - Head of Department of Fleet Technical Operation, Vice-rector on Scientific Work, Doctor of Science (the highest research degree), Professor, Honored Worker of Education in Ukraine, Honorary Worker of Maritime and River Transport in Ukraine
+[Golikov Vladimir A.](colleagues/Golikov.html) - Head of Department of Fleet Technical Operation, Vice-rector on Scientific Work, Doctor of Science (the highest research degree), Professor, Honored Worker of Education in Ukraine, Honorary Worker of Maritime and River Transport in Ukraine
 National University "Odessa Maritime Academy" (Odessa, Ukraine)
 
 Gorb Sergei I. - Head of the Department of Automatic Control Theory and Computer Engineering, Rector of the Postgraduate Education Institute of Sea and River Transport Specialists, Doctor of Science (the highest research degree), Professor
