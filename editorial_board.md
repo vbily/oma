@@ -4,9 +4,9 @@ lang: en
 ref: editorial_board
 ---
 
-Editor in Chief
+**Editor in Chief**
 
-Onishchenko Oleg А. - Doctor of Science (the highest research degree), Professor
+[Onishchenko Oleg А.](colleagues/onishchenko.html) - Doctor of Science (the highest research degree), Professor
 National University “Odessa Maritime Academy” (Odessa, Ukraine)
 
 Editorial Board
