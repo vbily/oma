@@ -1,6 +1,6 @@
 ## Onishchenko Oleg А.
 
-![Onishchenko][colleagues/photos/Onishchenko.jpg]
+![Onishchenko](colleagues/photos/Onishchenko.jpg)
 
 __National University “Odessa Maritime Academy” (Odessa, Ukraine)__
 
@@ -27,15 +27,15 @@ Doctor of Science (the highest research degree), Professor
 
 4. [Onishchenko O.A. Base non-linear model of the valve-inductive electric drive [Text] / Onishchenko O.A. // Vestnik NTU "KPI". - 2003. - № 10. – P. 396 – 397](http://scholar.google.com.ua/citations?view_op=view_citation&hl=ru&user=loy-x2UAAAAJ&citation_for_view=loy-x2UAAAAJ:ZeXyd9-uunAC)
 
-5. Onishchenko O.A. Developing models of the current simplified path for the valve-inductive micro electric drive [Text] / Onishchenko O.A., Karpovich O.Y. // Vestnik NTU "KPI". Part “Electrical engineering, electronics and electric motor drive”. – 2004. - №43. – P.91-94
+5. [Onishchenko O.A. Developing models of the current simplified path for the valve-inductive micro electric drive [Text] / Onishchenko O.A., Karpovich O.Y. // Vestnik NTU "KPI". Part “Electrical engineering, electronics and electric motor drive”. – 2004. - №43. – P.91-94](http://scholar.google.com.ua/scholar?hl=ru&as_sdt=0,5&cluster=8498850677760127751)
 
-6. Onishchenko O.A. Electric drive operating system of the refrigeration unit piston-type compressor [Text] / Onishchenko O.A. // Electromashunobuduvannya ta electroobladnannya. – 2005. - № 65. – P. 23-28
+6. [Onishchenko O.A. Electric drive operating system of the refrigeration unit piston-type compressor [Text] / Onishchenko O.A. // Electromashunobuduvannya ta electroobladnannya. – 2005. - № 65. – P. 23-28](http://storage.library.opu.ua/online/periodic/ee_65/5.pdf)
 
-7. Onishchenko O.A. [Text] Refrigiration unit model with automated electric drive compressor / Onishchenko O.A. // Refrigeration technics and technology. Supplement. – 2005. - № 5. – P. 97
+7. [Onishchenko O.A. [Text] Refrigiration unit model with automated electric drive compressor / Onishchenko O.A. // Refrigeration technics and technology. Supplement. – 2005. - № 5. – P. 97](http://scholar.google.com.ua/scholar?hl=ru&as_sdt=0,5&cluster=15932161243642556379)
 
-8. Onishchenko O.A. Model and setting of the current valve-inductive electric drive [Text] / Onishchenko O.A., Karpovich O.Y. // Naukovi pratsi DonNTU. - 2005.- №88. – P.23-29
+8. [Onishchenko O.A. Model and setting of the current valve-inductive electric drive [Text] / Onishchenko O.A., Karpovich O.Y. // Naukovi pratsi DonNTU. - 2005.- №88. – P.23-29](http://ea.dgtu.donetsk.ua:8080/bitstream/123456789/16311/1/23-29.pdf)
 
-9. Onishchenko O.A. Energy hazard upgrading for the valve-inductive electric drives [Text] / Onishchenko O.A., Karpovich O.Y. // Vestnik NTU "KPI". Problems of automated electric motor drive. Theory and practice. – 2005.- № 45. – P. 400 – 404
+9. [Onishchenko O.A. Energy hazard upgrading for the valve-inductive electric drives [Text] / Onishchenko O.A., Karpovich O.Y. // Vestnik NTU "KPI". Problems of automated electric motor drive. Theory and practice. – 2005.- № 45. – P. 400 – 404](http://scholar.google.com.ua/citations?view_op=view_citation&hl=ru&user=loy-x2UAAAAJ&citation_for_view=loy-x2UAAAAJ:mB3voiENLucC)
 
 10. Onishchenko O.A. Magnetization curves performance during modeling a microprocessor with the valve-inductivemotor drive [Text] / Onishchenko O.A. // Visnyk of Kherson National Technical University.- 2006.- № 2.- P. 25
 
