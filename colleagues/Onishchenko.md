@@ -1,6 +1,6 @@
 ## Onishchenko Oleg А.
 
-![Onishchenko](colleagues/photos/Onishchenko.jpg)
+![Onishchenko](photos/Onishchenko.jpg)
 
 __National University “Odessa Maritime Academy” (Odessa, Ukraine)__
 
