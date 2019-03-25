@@ -1,6 +1,7 @@
 ## Onishchenko Oleg А.
 
-![][colleagues/photos/Onishchenko.jpg]
+![Onishchenko][colleagues/photos/Onishchenko.jpg]
+
 __National University “Odessa Maritime Academy” (Odessa, Ukraine)__
 
 __Department of Fleet Technical Operation__
@@ -24,7 +25,7 @@ Doctor of Science (the highest research degree), Professor
 
 3. [Onishchenko O.A. Feedback sensor implementation feature by speed and position in valve-inductive electric drive [Text] / Onishchenko O.A., Karpovich O.Y. // Vestnik NTU "KPI". – 2003. – №11. – P. 65-70](http://scholar.google.com.ua/citations?view_op=view_citation&hl=ru&user=loy-x2UAAAAJ&citation_for_view=loy-x2UAAAAJ:7PzlFSSx8tAC)
 
-4. Onishchenko O.A. Base non-linear model of the valve-inductive electric drive [Text] / Onishchenko O.A. // Vestnik NTU "KPI". - 2003. - № 10. – P. 396 – 397
+4. [Onishchenko O.A. Base non-linear model of the valve-inductive electric drive [Text] / Onishchenko O.A. // Vestnik NTU "KPI". - 2003. - № 10. – P. 396 – 397](http://scholar.google.com.ua/citations?view_op=view_citation&hl=ru&user=loy-x2UAAAAJ&citation_for_view=loy-x2UAAAAJ:ZeXyd9-uunAC)
 
 5. Onishchenko O.A. Developing models of the current simplified path for the valve-inductive micro electric drive [Text] / Onishchenko O.A., Karpovich O.Y. // Vestnik NTU "KPI". Part “Electrical engineering, electronics and electric motor drive”. – 2004. - №43. – P.91-94
 
