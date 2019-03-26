@@ -8,9 +8,9 @@ layout: default
 
       <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
 
-      <div class="entry">
+      
        <p> {{ post.excerpt }} </p>
-      </div>
+      
 
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
     </article>

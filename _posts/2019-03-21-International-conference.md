@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "International conference in OMA"
 ---
 
